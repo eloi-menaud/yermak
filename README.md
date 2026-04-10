@@ -1,5 +1,5 @@
-# [Yermak](eloi-menaud.github.io/specimen/)
-Random icebreaker question picker [website](eloi-menaud.github.io/specimen/)
+# [Yermak](https://eloi-menaud.github.io/yermak/)
+Random icebreaker question picker [website](https://eloi-menaud.github.io/yermak/)
 
 <br><br><br>
 
